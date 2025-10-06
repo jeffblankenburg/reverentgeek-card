@@ -1,10 +1,10 @@
 {
 	"name": "jeffblankenburg",
-	"version": "3.0.0",
+	"version": "3.0.1",
 	"description": "My personal calling card.",
 	"main": "./bin/card.js",
 	"bin": {
-		"reverentgeek": "./bin/card.js"
+		"jeffblankenburg": "bin/card.js"
 	},
 	"type": "module",
 	"scripts": {
@@ -19,7 +19,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jeffblankenburg/reverentgeek-card.git"
+		"url": "git+https://github.com/jeffblankenburg/reverentgeek-card.git"
 	},
 	"dependencies": {
 		"boxen": "^8.0.1",
