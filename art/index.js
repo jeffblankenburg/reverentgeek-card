@@ -1,8 +1,6 @@
-import avatar from "./avatar.js";
 import banner from "./banner.js";
 
 const assets = {
-	avatar,
 	banner
 };
 
